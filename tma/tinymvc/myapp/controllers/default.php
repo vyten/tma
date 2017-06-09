@@ -16,7 +16,7 @@ class Default_Controller extends TinyMVC_Controller
   }
   
   function info() {
-  	echo phpinfo();
+  	$this->view->display('info_view');
   }
 }
 
