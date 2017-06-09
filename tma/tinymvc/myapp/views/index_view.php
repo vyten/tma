@@ -2,8 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" lang="sv" />
-	<meta name="viewport" content="width=320, user-scalable=yes">
-	<meta name = "format-detection" content = "telephone=no">
+	<meta name="viewport" content="width=320, user-scalable=yes" />
+	<meta name="format-detection" content="telephone=no" />
 	<title>starnet</title>
    <style>
       body {
